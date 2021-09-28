@@ -13,7 +13,8 @@
         "**/.Trash*": true,
         "**/.hidden": true,
         "**/.vscode": true,
-        "**/.dotfiles-coursera":true
+        "**/.dotfiles-coursera":true,
+        "**/.skiparchive": true
     },
     "workbench.colorTheme": "Default Dark+",
     "update.enableWindowsBackgroundUpdates": false,
